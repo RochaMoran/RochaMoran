@@ -1,22 +1,11 @@
 # Hi, I'm Steven Rocha 
-I am currently in the 4th year of Information Systems Engineering. I am a web developer, I am passionate about the front-end, I have knowledge in technologies such as HTML5, CSS3, SCSS, JS, React js, Bootstrap, the basics of node js, c #. My goal is to be able to provide my service either to develop pages, sites or web applications to clients, thus acquiring much more knowledge in the working world of this immense world of programmin
+As an Information Systems Engineer and full-stack developer, I bring extensive experience in crafting robust and scalable web applications. My focus revolves around creating seamless user experiences and delivering high-quality solutions. From designing engaging front-end interfaces to efficiently implementing back-end systems, my expertise spans the entire spectrum of web development. I am dedicated to overcoming challenges and providing solutions that not only meet but exceed strategic business goals. Actively seeking new opportunities to apply my skills and contribute to innovative projects in this dynamic field of software engineering.
 
-## Languages and Tools
+<div align="center">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=RochaMoran&color=orange&style=for-the-badge" alt="RochaMoran" > </p>
 
-![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RochaMoran&show_icons=true&theme=dark)](https://github.com/RochaMoran/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RochaMoran&theme=dark" alt="mystreak"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RochaMoran&theme=dark&hide_progress=true)
+</div>
+
